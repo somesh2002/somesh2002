@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=somesh2002&label=Profile%20views&color=0e75b6&style=flat" alt="somesh2002" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=somesh2002" alt="somesh2002" /></a> </p>
-
 - 🌱 I’m currently learning **Data Science**
 
 - 📫 How to reach me **somesh.agrawal6@gmail.com**
@@ -22,5 +20,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=somesh2002&show_icons=true&locale=en" alt="somesh2002" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=somesh2002&" alt="somesh2002" /></p>
+
 
